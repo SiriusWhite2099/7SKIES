@@ -1,0 +1,15 @@
+|------|------|-------------------------------------|-------------------|
+| ICAO | IATA | Airport Name                        | Community         |
+|------|------|-------------------------------------|-------------------|
+| EBAW | ANR  | Antwerp International Airport       | Antwerp/Deurne    |
+|------|------|-------------------------------------|-------------------|
+| EBBR | BRU  | Brussels Airport                    | Brussels/Zaventem |
+|------|------|-------------------------------------|-------------------|
+| EBCI | CRL  | Brussels South Charleroi Airport    | Charleroi         |
+|------|------|-------------------------------------|-------------------|
+| EBKT | KJK  | Flanders International Airport      | Kortrijk/Wevelgem |
+|------|------|-------------------------------------|-------------------|
+| EBLG | LGG  | Liège Airport                       | Liège             |
+|------|------|-------------------------------------|-------------------|
+| EBOS | OST  | Ostend–Bruges International Airport | Bruges/Ostend     |
+|------|------|-------------------------------------|-------------------|
